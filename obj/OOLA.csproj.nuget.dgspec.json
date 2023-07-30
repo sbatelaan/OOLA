@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\mbate\\Projects\\OOLA\\OOLA.csproj": {}
+    "C:\\Users\\mbate\\Projects\\OOLA\\OOLA.csproj": {}
   },
   "projects": {
-    "c:\\Users\\mbate\\Projects\\OOLA\\OOLA.csproj": {
+    "C:\\Users\\mbate\\Projects\\OOLA\\OOLA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\mbate\\Projects\\OOLA\\OOLA.csproj",
+        "projectUniqueName": "C:\\Users\\mbate\\Projects\\OOLA\\OOLA.csproj",
         "projectName": "OOLA",
-        "projectPath": "c:\\Users\\mbate\\Projects\\OOLA\\OOLA.csproj",
+        "projectPath": "C:\\Users\\mbate\\Projects\\OOLA\\OOLA.csproj",
         "packagesPath": "C:\\Users\\mbate\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\mbate\\Projects\\OOLA\\obj\\",
+        "outputPath": "C:\\Users\\mbate\\Projects\\OOLA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mbate\\AppData\\Roaming\\NuGet\\NuGet.Config",
